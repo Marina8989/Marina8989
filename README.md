@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on a voice activated assistant with React App
+- 🔭 I’m currently working on a Voice Activated Assistant with React App
 - 🌱 I’m currently learning React and CSS Animation
 - 💬 Ask me about programming
 
